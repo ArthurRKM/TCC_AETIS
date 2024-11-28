@@ -1,4 +1,4 @@
 # TCC_AETIS
-- Aplicatido para Emprestimos Terceirizados de Itens de Saúde
--
+- Aplicativo para Emprestimos Terceirizados de Itens de Saúde
+- 'Descrição'
 - Arthur Renê Kwiatkowski de Melo
